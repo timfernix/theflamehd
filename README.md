@@ -3,7 +3,6 @@
 - 📫 How to reach me: Discord: theflamehd#0001
 
 ![](https://github-readme-stats.vercel.app/api?username=theflamehd&theme=cobalt&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theflamehd&theme=cobalt&layout=compact)
 ![](https://github.com/theflamehd/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/theflamehd/github-stats/blob/master/generated/languages.svg)
 
