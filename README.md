@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theflamehd
 - 👀 League of Legends player, programmer, idk what you wanna call me....
-- 📫 How to reach me: Discord: theflamehd#0001
+- 📫 How to reach me: Discord: theflamehd#7680
 
 ![](https://github-readme-stats.vercel.app/api?username=theflamehd&theme=cobalt&show_icons=true)
 ![](https://github.com/theflamehd/github-stats/blob/master/generated/overview.svg)
