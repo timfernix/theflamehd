@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theflamehd
-- 📫 How to reach me: Discord: theflamehd#7680
+- 📫 How to reach me: Discord: theflamehd#0001
 - ✨ Interested in what i do: https://zoe-discord-bot.ch/, https://translate.zoe-discord-bot.ch/ & https://wiki.zoe-discord-bot.ch/
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theflamehd&theme=github_dark)
